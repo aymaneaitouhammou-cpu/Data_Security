@@ -1,0 +1,8 @@
+server : 
+1) python -m venv venv 
+2).\venv\Scripts\activate
+3)python server.py       
+
+http to https (mobile :)
+1) .\ngrok config add-authtoken 36r5206vOpjxXIPN8Ul0Pr2TTXX_3AtbTUG2EHJWSUpEzmZHK
+2) .\ngrok http 5001  
